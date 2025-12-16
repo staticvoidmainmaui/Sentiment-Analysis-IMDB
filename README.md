@@ -8,7 +8,7 @@ This repo is a starting point and something personalized for AI Projects at UF.
 
 
 
-IMDB Reviews received from friend, Mahdi Haque.  
+IMDB Reviews received from acquaintance, John Burrow.  
 
 Guidelines coming from inspiration of other repositories.
 
